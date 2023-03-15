@@ -47,4 +47,8 @@ h1 {
     font-weight: 900;
   }
   
+  .btn:hover {
+    color: #ffffff;
+    outline: 0;
+  }
 
