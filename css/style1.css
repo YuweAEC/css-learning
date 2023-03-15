@@ -52,3 +52,13 @@ h1 {
     outline: 0;
   }
 
+  
+  .lco {
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+  }
+  
+  .lco:hover {
+    box-shadow: 0 0 40px 40px #1f1f1f inset;
+  }
+
+  
