@@ -5,3 +5,19 @@ body {
   color: #ffffff;
 }
 
+h1 {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 20%;
+    color: #ffffff;
+    font-family: "Montserrat";
+    font-weight: 400;
+  }
+  
+  span {
+    color: #1f1f1f;
+    font-size: 100px;
+    font-weight: 900;
+  }
+  
+
